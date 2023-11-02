@@ -13,3 +13,5 @@ The painting trade is the last one to enter the construction process as their jo
 ## Deliverables 
 
 Check out my paper [here](https://github.com/yankarlog/Indoor_Object_Detect/blob/main/Exploration%20for%20Indoor%20Object%20Detection.pdf)!
+
+Here is a quick demonstration of the Object Dection [here](https://github.com/yankarlog/Indoor_Object_Detect/tree/main/Web_App)
